@@ -9,5 +9,5 @@
   "impersonate:commands.disguise.start.success.self": "Identitätswechsel mit %s begonnen",
   "gamerule.impersonate:fakeCapes": "Umhänge des nachgeahmten Spielers kopieren",
   "gamerule.impersonate:logRevealImpersonations": "Identitätswechsel in den Server Logs anzeigen",
-  "gamerule.impersonate:opRevealImpersonations": "Identitätswechsel den Server Operatorn mitteilen"
+  "gamerule.impersonate:opRevealImpersonations": "Identitätswechsel den Server Operatorn anzeigen"
 }
